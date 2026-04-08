@@ -7,7 +7,7 @@ data1 = {
 }
 
 data2 = {
-    "name": ['rohit', 'khatua', 'bantu'],
+    "name": ['rohit', 'khatua', 'anirban'],
     "roll": [183, 163, 161],
     "marks": [10, 14, 187]
 }
